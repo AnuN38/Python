@@ -186,3 +186,90 @@
 # print(li1)
 
 
+"""Add items"""
+# a = ["anu", "athira", "ashvi", "arjun"]
+# a.append("ali")
+# print(a)
+
+
+"""Add item to a specified index"""
+# a = ["anu", "athira", "ashvi", "arjun"]
+# a.insert(1,"sam")
+# print(a)
+
+
+# a=["apple","orange","banana"]
+# b=["red","green","orange"]
+# a.extend(b)
+# print(a)
+# a.remove("orange")
+# print(a)
+# a.pop(2)
+# print(a)
+
+"""Tuple"""
+# a = ("apple", "orange", "kiwi", "banana")
+# print(type(a))
+# print(len(a))
+
+"""change tuple items"""
+# a = ("apple", "orange", "banana")
+# x = list(a)
+# x[1]="kiwi"
+# a=tuple(x)
+# print(a)
+
+
+# fruits = ("apple", "orange", "banana")
+# (red,green,blue) = fruits
+# print(red)
+# print(green)
+# print(blue)
+
+
+"""Set"""
+# s = {"apple","orange","kiwi","apple"}
+# print(type(s))
+# print(len(s))
+# print(s)
+
+
+"""Dictionary"""
+# a={"name":"anu","place":"malappuram","year":2022}
+# print(a)
+# print(type(a))
+# print(len(a))
+# a["year"]=1999
+# print(a)
+
+# a={"name":"anu","place":"malappuram","year":2022}
+
+
+# a=10
+# b=10
+# if b>a:
+#     print("b is greater than a")
+# elif a==b:
+#     print("a and b are equal")
+# else:
+#     print("a is greater than b")
+
+
+# a=["a","b","c","d"]
+# for i in a:
+#     print(a)
+
+
+# fruits =["apple","banana","kiwi","orange","grape"]
+# n = input("Enter a fruit name: ")
+# for n in fruits:
+#     print("Fruit exist")
+#     break
+
+
+fruits = ["apple", "banana", "kiwi", "orange", "grape"]
+n = input("Enter a fruit name: ")
+if n == "banana":
+    print("Welcome")
+else:
+    print("Not entry")
