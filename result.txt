@@ -1,0 +1,6 @@
+1. {'Count of to is: ': 3, 'Count of the is: ': 2}
+
+2. {'Count of upper-case words': 7}
+
+3. {'Even position words:': ['Python', 'a', 'interpreted,', 'object-oriented,', 'high-level', 'language.', 'was', 'by', 'van', 'during', '1990.'], 'Odd position words:': ['is', 'general-purpose', 'interactive,', 'and', 'programming', 'It', 'created', 'Guido', 'Rossum', '1985-']}3. {'Even position words:': ['Python', 'a', 'interpreted,', 'object-oriented,', 'high-level', 'language.', 'was', 'by', 'van', 'during', '1990.'], 'Odd position words:': ['is', 'general-purpose', 'interactive,', 'and', 'programming', 'It', 'created', 'Guido', 'Rossum', '1985-']}3. {'Even position words:': ['Python', 'a', 'interpreted,', 'object-oriented,', 'high-level', 'language.', 'was', 'by', 'van', 'during', '1990.'], 'Odd position words:': ['is', 'general-purpose', 'interactive,', 'and', 'programming', 'It', 'created', 'Guido', 'Rossum', '1985-']}
+

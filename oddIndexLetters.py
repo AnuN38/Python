@@ -1,7 +1,7 @@
 """1. read a string and print odd index letters"""
 
 # str = input("Enter a string: ")
-# i=0
+# i=1
 # while i < len(str):
 #     print(str[i])
 #     i = i + 2

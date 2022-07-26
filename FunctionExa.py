@@ -15,14 +15,14 @@ function_name()
 # namefunc()
 
 
-# a= int(input("Enter a number:"))
-# b = int(input("Enter another number:"))
-# def sum():
-#     s =a+b
-#     return s
-# # print(sum())
-# x = sum()
-# print(x)
+a= int(input("Enter a number:"))
+b = int(input("Enter another number:"))
+def sum():
+    s =a+b
+    return s
+# print(sum())
+x = sum()
+print(x)
 
 
 

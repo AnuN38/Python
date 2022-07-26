@@ -136,7 +136,7 @@
 """program to generate a dictionary that contains (i,i*i) such that is an integral number between 1 and n"""
 a = {}
 n = int(input("Enter a limit: "))
-for i in range(1,n):
+for i in range(1,n+1):
     a[i]=i*i
 print(a)
 
